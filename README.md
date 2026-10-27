@@ -1,65 +1,94 @@
-# Josephine Digital Labs — Developer Portfolio
+# Josephine Digital Labs | Developer Portfolio
 
-A responsive portfolio introducing Josephine Mueni, her developing technology stack, and practical web-app projects. The site is built with plain HTML, CSS, and JavaScript.
+Personal developer portfolio for Josephine Mueni, a self-taught developer based in Kenya. The portfolio presents selected web projects, the technologies used to build them, and opportunities for technical mentorship and collaboration.
 
-## Live portfolio
+## Portfolio
 
-**Expected GitHub Pages URL:** https://josephine-junior-dev.github.io/Josephine-Digital-Labs-Portfolio/
+**Repository:** [Josephine Digital Labs Portfolio](https://github.com/Josephine-Junior-dev/Josephine-Digital-Labs-Portfolio)
 
-The portfolio repository is public, but the URL will only work after GitHub Pages is enabled for this repository. On Android: open the repository → **Settings** → **Pages** → under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/ (root)`, then **Save**. GitHub will display the published address on that page. Allow a few minutes for the first deployment.
+**Live website:** [Open portfolio](https://josephine-junior-dev.github.io/Josephine-Digital-Labs-Portfolio/)
 
-## Project links and status
+> The live address is available after GitHub Pages is enabled for this repository. If it has not been published yet, open **Settings → Pages**, select **Deploy from a branch**, choose `main` and `/(root)`, then save. GitHub will show the deployment status and URL on the Pages settings screen.
 
-### PesaGuard
-- Live app: https://pesaguard.netlify.app/
-- Source: https://github.com/Josephine-Junior-dev/Living-Budget
-- Status: **Early-stage / in development.** The live link is available, but features require testing and continued technical improvement. Do not describe it as production-ready.
+## Featured Projects
 
-### Garage Operations Pro
-- Live preview: https://garageoperationspwa1234-3.vercel.app/
-- Source: https://github.com/Josephine-Junior-dev/garage-operations
-- Status: **In development.** Verify the live deployment and test its features before relying on it.
+### PesaGuard — Personal Finance Application
+A mobile-friendly personal finance project exploring expense tracking, budgets, bills, debts, and financial summaries.
 
-### HustleBook / small-business tools
-- Source: https://github.com/Josephine-Junior-dev/HustleBook-Simple
-- Status: **Early-stage learning project.** Features and naming may evolve; verify the current repository before describing it as a finished product.
+- **Live application:** [pesaguard.netlify.app](https://pesaguard.netlify.app/)
+- **Source code:** [Living Budget repository](https://github.com/Josephine-Junior-dev/Living-Budget)
+- **Status:** In development. Features and cloud data flows require testing; this project is not represented as production-ready.
 
-The project cards use live embedded previews where possible. Browsers or app hosting settings may block embedding; visitors can select **Open live app** to open a project separately. The HustleBook card artwork is illustrative and is explicitly not presented as a real screenshot.
+### HustleBook — Small-Business Tools
+A small-business application project exploring ways to organise business records and day-to-day activities.
 
-## Technology stack
+- **Source code:** [HustleBook repository](https://github.com/Josephine-Junior-dev/HustleBook-Simple)
+- **Status:** Early-stage project. Review the repository for the current implementation and available features.
 
-- **HTML5** — page structure and semantic content
-- **CSS3** — responsive design and visual styling
-- **JavaScript (ES6+)** — mobile navigation and copy-introduction interaction
-- **Supabase / PostgreSQL** — used by selected projects for database and authentication work
-- **Git and GitHub** — source control and collaboration
-- **Netlify, Vercel, GitHub Pages** — hosting and deployment platforms
+### Additional Project: Garage Operations Pro
+Garage Operations Pro is kept as a **static repository link only** and is not shown as a featured live preview on this portfolio.
 
-Technologies listed here describe the portfolio and its projects; not every technology is used by every project.
+- **Source code:** [Garage Operations repository](https://github.com/Josephine-Junior-dev/garage-operations)
+- **Status:** In development.
 
-## Files
+## Technology Stack
 
-- `index.html` — portfolio content and project cards
-- `style.css` — responsive styling, status labels, and live-preview frames
-- `script.js` — mobile navigation and copy-introduction button
+| Technology | Application |
+|---|---|
+| HTML5 | Semantic page structure and content |
+| CSS3 | Responsive layouts, styling, and mobile-friendly presentation |
+| JavaScript (ES6+) | Navigation interactions and copy-introduction functionality |
+| Supabase | Backend services and authentication integration in selected projects |
+| PostgreSQL | Relational data storage for selected projects |
+| Git | Version control |
+| GitHub | Source hosting and collaboration |
+| Netlify | Hosting for PesaGuard |
+| Vercel | Deployment platform used for selected web projects |
+| GitHub Pages | Static portfolio hosting |
 
-## Add real screenshots later
+The technologies above span the portfolio and its related projects; they are not all used by every application.
 
-The live preview frames show the actual deployed pages when embedding is allowed. To add static screenshots, take screenshots directly from each running app (hide personal or customer data first), upload the image files to a folder such as `screenshots/`, and use those image files in the relevant project card. Do not use sample data that could be mistaken for real customer information.
+## Portfolio Features
 
-## Local preview
+- Responsive layout for phones, tablets, and desktop screens
+- Project descriptions with direct links to live applications or source repositories
+- Clear project-status labels to distinguish work in progress from finished products
+- Technology overview
+- Mobile navigation
+- Copyable introduction for mentorship outreach
 
-Open `index.html` in a browser, or serve the repository root with any static web server. No build step is required.
+## Repository Structure
 
-## Security notes
+```text
+.
+├── index.html   # Portfolio content and project cards
+├── style.css    # Responsive design and visual styles
+├── script.js    # Navigation and copy-introduction interactions
+└── README.md    # Project documentation
+```
+
+## Run Locally
+
+This is a static website and does not require a build step.
+
+1. Download or clone the repository.
+2. Open `index.html` in a browser, or serve the folder with a static web server.
+3. To publish with GitHub Pages, configure the repository's **Settings → Pages** options as described above.
+
+## Security and Project Status
 
 - Never commit passwords, private tokens, or Supabase service-role keys.
-- Use only public/publishable keys in browser code.
-- Treat authentication, database access policies, and production readiness as separate items that must be tested before handling real user data.
+- Use only publishable/anonymous keys in browser-side code, with suitable database policies.
+- Authentication, permissions, data isolation, and production readiness must be verified before an application is used for sensitive real-world data.
+- Project descriptions indicate development status honestly; live links do not by themselves guarantee every feature is working.
 
-## Contact
+## Contact and Collaboration
 
-- GitHub: https://github.com/Josephine-Junior-dev
-- PesaGuard: https://pesaguard.netlify.app/
+- **GitHub:** [Josephine-Junior-dev](https://github.com/Josephine-Junior-dev)
+- **PesaGuard:** [Live application](https://pesaguard.netlify.app/)
 
-Built with curiosity in Kenya.
+I welcome constructive code reviews, technical mentorship, open-source collaboration, and suitable junior or freelance development opportunities.
+
+---
+
+*Designed and developed by Josephine Mueni in Kenya.*
