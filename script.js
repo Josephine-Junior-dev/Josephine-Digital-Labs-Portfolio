@@ -17,7 +17,7 @@ if (menuToggle && mainNav) {
   });
 }
 
-const intro = `Hello, my name is Josephine and I am an aspiring self-taught developer from Kenya. I am building practical web applications, including PesaGuard, a personal finance app, and tools for garage and small-business operations. I am looking for a technical mentor who can review my actual code, guide me on secure and reliable development, and advise me on remote paid opportunities or relevant funding programmes. My portfolio is https://github.com/Josephine-Junior-dev and my current live project is https://pesaguard.netlify.app/. I am committed to learning, improving, and acting on feedback.`;
+const intro = `Hello, my name is Josephine and I am an aspiring self-taught developer from Kenya. I am building practical web applications, including Living Budget, a personal finance app, and tools for small-business operations. I am looking for a technical mentor who can review my actual code, guide me on secure and reliable development, and advise me on remote paid opportunities or relevant funding programmes. My portfolio is https://github.com/Josephine-Junior-dev and my current live project is https://livingbudget.netlify.app/. I am committed to learning, improving, and acting on feedback.`;
 
 const copyButton = document.getElementById("copyIntro");
 const feedback = document.getElementById("copyFeedback");
