@@ -22,8 +22,9 @@ A mobile-friendly personal finance project exploring expense tracking, budgets, 
 ### HustleBook — Small-Business Tools
 A small-business application project exploring ways to organise business records and day-to-day activities.
 
-- **Source code:** [HustleBook repository](https://github.com/Josephine-Junior-dev/HustleBook-Simple)
-- **Status:** Early-stage project. Review the repository for the current implementation and available features.
+- **Live application:** [Open the deployed site](https://josephine-junior-dev.github.io/HustleBook-Simple/)
+- **Source code:** [HustleBook-Simple repository](https://github.com/Josephine-Junior-dev/HustleBook-Simple)
+- **Status:** The live URL is published. Check the current app and repository for the latest available features.
 
 ### Additional Project: Garage Operations Pro
 Garage Operations Pro is kept as a **static repository link only** and is not shown as a featured live preview on this portfolio.
