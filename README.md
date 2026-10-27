@@ -1,6 +1,6 @@
 # Josephine Digital Labs | Developer Portfolio
 
-Personal developer portfolio for Josephine Mueni, a self-taught developer based in Kenya. The portfolio presents selected web projects, the technologies used to build them, and opportunities for technical mentorship and collaboration.
+Personal developer portfolio for Josephine Mueni, a self-taught developer based in Kenya. The portfolio presents selected deployed applications, a static project overview, and opportunities for technical mentorship and collaboration.
 
 ## Portfolio
 
