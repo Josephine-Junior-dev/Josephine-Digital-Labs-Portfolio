@@ -15,7 +15,7 @@ Personal developer portfolio for Josephine Mueni, a self-taught developer based 
 ### PesaGuard — Personal Finance Application
 A mobile-friendly personal finance project exploring expense tracking, budgets, bills, debts, and financial summaries.
 
-- **Live application:** [pesaguard.netlify.app](https://pesaguard.netlify.app/)
+- **Live application:** [livingbudget.netlify.app](https://livingbudget.netlify.app/)
 - **Source code:** [Living Budget repository](https://github.com/Josephine-Junior-dev/Living-Budget)
 - **Status:** In development. Features and cloud data flows require testing; this project is not represented as production-ready.
 
@@ -85,7 +85,7 @@ This is a static website and does not require a build step.
 ## Contact and Collaboration
 
 - **GitHub:** [Josephine-Junior-dev](https://github.com/Josephine-Junior-dev)
-- **PesaGuard:** [Live application](https://pesaguard.netlify.app/)
+- **PesaGuard:** [Live application](https://livingbudget.netlify.app/)
 
 I welcome constructive code reviews, technical mentorship, open-source collaboration, and suitable junior or freelance development opportunities.
 
