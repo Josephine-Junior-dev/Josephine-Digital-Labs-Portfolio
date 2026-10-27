@@ -145,3 +145,8 @@ footer{padding:24px clamp(20px,5.5vw,84px);background:#101b2d;color:#dce5ef;bord
   .product-feature,.product-feature:first-child{border-radius:17px}
   .product-detail{padding:22px 19px}
 }
+
+.mentor-intro-preview{margin:16px 0;padding:15px;border:1px solid #dce3eb;border-radius:10px;background:#f5f8fb}
+.mentor-intro-preview>small{font:500 9px var(--mono);letter-spacing:1px;color:#536176}
+.mentor-intro-preview p{font-size:11px;line-height:1.8;color:#46566b;margin:8px 0 0;user-select:text;overflow-wrap:anywhere}
+.contact-row:focus-visible,.copy-button:focus-visible{outline:3px solid #8ccf9b;outline-offset:3px}
