@@ -4,8 +4,6 @@ Personal developer portfolio for Josephine Mueni, a self-taught developer based 
 
 ## Portfolio
 
-**Repository:** [Josephine Digital Labs Portfolio](https://github.com/Josephine-Junior-dev/Josephine-Digital-Labs-Portfolio)
-
 **Live website:** [Open portfolio](https://josephine-junior-dev.github.io/Josephine-Digital-Labs-Portfolio/)
 
 > The live address is available after GitHub Pages is enabled for this repository. If it has not been published yet, open **Settings → Pages**, select **Deploy from a branch**, choose `main` and `/(root)`, then save. GitHub will show the deployment status and URL on the Pages settings screen.
@@ -16,21 +14,13 @@ Personal developer portfolio for Josephine Mueni, a self-taught developer based 
 A mobile-friendly personal finance project exploring expense tracking, budgets, bills, debts, and financial summaries.
 
 - **Live application:** [livingbudget.netlify.app](https://livingbudget.netlify.app/)
-- **Source code:** [Living Budget repository](https://github.com/Josephine-Junior-dev/Living-Budget)
 - **Status:** In development. Features and cloud data flows require testing; this project is not represented as production-ready.
 
 ### HustleBook — Small-Business Tools
 A small-business application project exploring ways to organise business records and day-to-day activities.
 
 - **Live application:** [Open the deployed site](https://josephine-junior-dev.github.io/HustleBook-Simple/)
-- **Source code:** [HustleBook-Simple repository](https://github.com/Josephine-Junior-dev/HustleBook-Simple)
 - **Status:** The live URL is published. Check the current app and repository for the latest available features.
-
-### Additional Project: Garage Operations Pro
-Garage Operations Pro is kept as a **static repository link only** and is not shown as a featured live preview on this portfolio.
-
-- **Source code:** [Garage Operations repository](https://github.com/Josephine-Junior-dev/garage-operations)
-- **Status:** In development.
 
 ## Technology Stack
 
@@ -42,7 +32,6 @@ Garage Operations Pro is kept as a **static repository link only** and is not sh
 | Supabase | Backend services and authentication integration in selected projects |
 | PostgreSQL | Relational data storage for selected projects |
 | Git | Version control |
-| GitHub | Source hosting and collaboration |
 | Netlify | Hosting for Living Budget |
 | Vercel | Deployment platform used for selected web projects |
 | GitHub Pages | Static portfolio hosting |
@@ -52,7 +41,7 @@ The technologies above span the portfolio and its related projects; they are not
 ## Portfolio Features
 
 - Responsive layout for phones, tablets, and desktop screens
-- Project descriptions with direct links to live applications or source repositories
+- Project descriptions with direct links to deployed applications
 - Clear project-status labels to distinguish work in progress from finished products
 - Technology overview
 - Mobile navigation
@@ -82,7 +71,6 @@ Data safety is considered during development, and precautions are included to he
 
 ## Contact and Collaboration
 
-- **GitHub:** [Josephine-Junior-dev](https://github.com/Josephine-Junior-dev)
 - **Living Budget:** [Live application](https://livingbudget.netlify.app/)
 
 I welcome constructive code reviews, technical mentorship, open-source collaboration, and suitable junior or freelance development opportunities.
