@@ -12,7 +12,7 @@ Personal developer portfolio for Josephine Mueni, a self-taught developer based 
 
 ## Featured Projects
 
-### PesaGuard — Personal Finance Application
+### Living Budget — Personal Finance Application
 A mobile-friendly personal finance project exploring expense tracking, budgets, bills, debts, and financial summaries.
 
 - **Live application:** [livingbudget.netlify.app](https://livingbudget.netlify.app/)
@@ -42,7 +42,7 @@ Garage Operations Pro is kept as a **static repository link only** and is not sh
 | PostgreSQL | Relational data storage for selected projects |
 | Git | Version control |
 | GitHub | Source hosting and collaboration |
-| Netlify | Hosting for PesaGuard |
+| Netlify | Hosting for Living Budget |
 | Vercel | Deployment platform used for selected web projects |
 | GitHub Pages | Static portfolio hosting |
 
@@ -85,7 +85,7 @@ This is a static website and does not require a build step.
 ## Contact and Collaboration
 
 - **GitHub:** [Josephine-Junior-dev](https://github.com/Josephine-Junior-dev)
-- **PesaGuard:** [Live application](https://livingbudget.netlify.app/)
+- **Living Budget:** [Live application](https://livingbudget.netlify.app/)
 
 I welcome constructive code reviews, technical mentorship, open-source collaboration, and suitable junior or freelance development opportunities.
 
