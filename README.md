@@ -22,6 +22,12 @@ A small-business application project exploring ways to organise business records
 - **Live application:** [Open the deployed site](https://josephine-junior-dev.github.io/HustleBook-Simple/)
 - **Status:** The live URL is published. Check the current app and repository for the latest available features.
 
+### InvoiceGenerator — Invoice Creation Tool
+A static-hosted invoice generator with 14 professional design templates, a live draft preview, customer and business details, currency selection, invoice totals, and Supabase integration for saved records.
+
+- **Live application:** [Open InvoiceGenerator](https://josephine-junior-dev.github.io/InvoDesk-Invoicing-Made-Simple/)
+- **Status:** In development. Verify the current invoice creation and save workflow before relying on it for important billing records.
+
 ## Technology Stack
 
 | Technology | Application |
