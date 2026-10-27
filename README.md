@@ -76,12 +76,9 @@ This is a static website and does not require a build step.
 2. Open `index.html` in a browser, or serve the folder with a static web server.
 3. To publish with GitHub Pages, configure the repository's **Settings → Pages** options as described above.
 
-## Security and Project Status
+## Data Safety and Project Status
 
-- Never commit passwords, private tokens, or Supabase service-role keys.
-- Use only publishable/anonymous keys in browser-side code, with suitable database policies.
-- Authentication, permissions, data isolation, and production readiness must be verified before an application is used for sensitive real-world data.
-- Project descriptions indicate development status honestly; live links do not by themselves guarantee every feature is working.
+Data safety is considered during development, and precautions are included to help protect information. Projects are still under development, so their readiness should be reviewed before they are used with sensitive real-world data. A live link does not guarantee that every feature has been fully tested.
 
 ## Contact and Collaboration
 
