@@ -73,3 +73,75 @@ footer{padding:24px clamp(20px,5.5vw,84px);background:#101b2d;color:#dce5ef;bord
 .studio-section,.approach-section{padding:57px 20px}.studio-grid h2,.products-heading h2,.approach-grid h2,.contact-grid h2{font-size:39px;letter-spacing:-2px}.products-section{padding:58px 15px}.products-heading{grid-template-columns:1fr;gap:12px;margin-bottom:25px}.products-heading>p{font-size:12px}
 .product-list{grid-template-columns:1fr;gap:15px}.product-feature,.product-feature:first-child{grid-column:auto;grid-template-columns:1fr;grid-template-rows:auto 1fr}.product-feature:first-child .product-art,.product-art{min-height:240px;padding:20px}.budget-art-title,.hustle-art-title{font-size:36px}.product-detail{padding:21px 20px}.product-detail h3{font-size:27px}.product-detail>p:not(.honesty-note){font-size:12px}.product-detail-bottom{align-items:flex-start}.build-note{font-size:7px}.product-link{font-size:11px}
 .mentor-section{padding:0 15px 58px}.mentor-inner{grid-template-columns:1fr;padding:24px 21px;gap:15px}.mentor-seal{width:45px;height:45px}.mentor-inner h2{font-size:31px}.mentor-button{grid-column:1}.contact-section{padding:58px 20px}.contact-grid{grid-template-columns:1fr;gap:25px}.contact-grid h2{font-size:39px}.contact-card{padding:17px}footer{padding:20px;gap:12px}footer p{order:3;width:100%;margin:0}}
+
+
+/* PREMIUM GLASSMORPHISM PROJECT CARDS */
+.products-section{
+  background:
+    radial-gradient(ellipse at 12% 8%,#24466b80,transparent 34%),
+    radial-gradient(ellipse at 88% 78%,#1d5c5480,transparent 32%),
+    linear-gradient(135deg,#0c1728,#111f34 58%,#102638);
+}
+.products-section:before{
+  border-color:#91b9d326;
+  box-shadow:0 0 0 45px #91b9d30a,0 0 0 90px #91b9d306;
+}
+.product-feature,
+.product-feature:first-child{
+  position:relative;
+  isolation:isolate;
+  background:linear-gradient(145deg,rgba(255,255,255,.14),rgba(255,255,255,.055));
+  border:1px solid rgba(220,238,255,.24);
+  border-radius:20px;
+  box-shadow:0 22px 55px rgba(0,0,0,.25),inset 0 1px 0 rgba(255,255,255,.28);
+  -webkit-backdrop-filter:blur(18px);
+  backdrop-filter:blur(18px);
+}
+.product-feature:after{
+  content:"";
+  position:absolute;
+  inset:0;
+  border-radius:inherit;
+  pointer-events:none;
+  z-index:3;
+  background:linear-gradient(130deg,rgba(255,255,255,.13),transparent 30%,transparent 75%,rgba(161,220,255,.06));
+}
+.product-feature:hover,
+.product-feature:first-child:hover{
+  border-color:rgba(217,247,183,.62);
+  box-shadow:0 30px 70px rgba(0,0,0,.34),0 0 0 1px rgba(217,247,183,.08),inset 0 1px 0 rgba(255,255,255,.35);
+}
+.product-art{border-bottom:1px solid rgba(255,255,255,.22)}
+.product-detail{
+  position:relative;
+  z-index:1;
+  background:rgba(12,25,43,.64);
+  color:#f3f7fc;
+}
+.product-overline{color:#b3c4d8}
+.product-detail h3{color:#f7faff}
+.product-detail h3 small{color:#a5b5c9}
+.product-detail>p:not(.honesty-note){color:#c0ccdc}
+.feature-tags span{
+  color:#e0eaf5;
+  background:rgba(255,255,255,.075);
+  border-color:rgba(220,238,255,.17);
+  -webkit-backdrop-filter:blur(10px);
+  backdrop-filter:blur(10px);
+}
+.product-status{background:rgba(217,247,183,.15);color:#d9f7b7;border:1px solid rgba(217,247,183,.25)}
+.product-status.status-early{background:rgba(255,208,120,.13);color:#ffd78e;border-color:rgba(255,208,120,.24)}
+.product-detail-bottom{border-color:rgba(220,238,255,.16)}
+.build-note,.private-label{color:#a8b8ca}
+.product-link{
+  background:linear-gradient(135deg,#d9f7b7,#bfe8a2);
+  color:#142b4a;
+  box-shadow:0 7px 20px rgba(217,247,183,.16),inset 0 1px 0 rgba(255,255,255,.75);
+}
+.product-link b{color:#236b57}
+.product-link:hover{background:#ecffd7;color:#10253e}
+.honesty-note{color:#9fadc0}
+@media(max-width:600px){
+  .product-feature,.product-feature:first-child{border-radius:17px}
+  .product-detail{padding:22px 19px}
+}
