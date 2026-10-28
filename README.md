@@ -13,7 +13,7 @@ Personal developer portfolio for Josephine Mueni, a self-taught developer based 
 ### Living Budget — Personal Finance Application
 A mobile-friendly personal finance project exploring expense tracking, budgets, bills, debts, and financial summaries.
 
-- **Live application:** [livingbudget.netlify.app](https://josephine-junior-dev.github.io/Living-Budget/)
+- **Live application:** [Open Living Budget on GitHub Pages](https://josephine-junior-dev.github.io/Living-Budget/)
 - **Status:** In development. Features and cloud data flows require testing; this project is not represented as production-ready.
 
 ### HustleBook — Small-Business Tools
