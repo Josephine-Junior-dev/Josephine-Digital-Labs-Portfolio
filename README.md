@@ -13,7 +13,7 @@ Personal developer portfolio for Josephine Mueni, a self-taught developer based 
 ### Living Budget — Personal Finance Application
 A mobile-friendly personal finance project exploring expense tracking, budgets, bills, debts, and financial summaries.
 
-- **Live application:** [livingbudget.netlify.app](https://livingbudget.netlify.app/)
+- **Live application:** [livingbudget.netlify.app](https://josephine-junior-dev.github.io/Living-Budget/)
 - **Status:** In development. Features and cloud data flows require testing; this project is not represented as production-ready.
 
 ### HustleBook — Small-Business Tools
@@ -38,7 +38,7 @@ A static-hosted invoice generator with 14 professional design templates, a live 
 | Supabase | Backend services and authentication integration in selected projects |
 | PostgreSQL | Relational data storage for selected projects |
 | Git | Version control |
-| Netlify | Hosting for Living Budget |
+| GitHub Pages | Static hosting for project websites |
 | Vercel | Deployment platform used for selected web projects |
 | GitHub Pages | Static portfolio hosting |
 
@@ -77,7 +77,7 @@ Data safety is considered during development, and precautions are included to he
 
 ## Contact and Collaboration
 
-- **Living Budget:** [Live application](https://livingbudget.netlify.app/)
+- **Living Budget:** [Live application](https://josephine-junior-dev.github.io/Living-Budget/)
 
 I welcome constructive code reviews, technical mentorship, open-source collaboration, and suitable junior or freelance development opportunities.
 
